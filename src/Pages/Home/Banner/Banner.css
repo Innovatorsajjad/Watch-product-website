@@ -1,0 +1,29 @@
+.Parent-container{
+    color: purple;
+    font-style: italic;
+}
+.content{
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+#btn-hero{
+    background-color: purple;
+    width: 165px;
+    height: 54px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font: bold 18px sans-serif;
+    -webkit-transition: background 3s; 
+    transition: background 3s; 
+   
+}
+#btn-hero:hover{
+     background: #5fc386;
+      color: #000000;
+}
+#btn-hero a{
+    text-decoration: none;
+    color: #ffffff;
+}
